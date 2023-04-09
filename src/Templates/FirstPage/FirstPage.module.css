@@ -1,0 +1,7 @@
+.highlightedText {
+  font-family: monospace;
+  padding: 2px 4px;
+  background-color: crimson;
+  color: white;
+  border-radius: 4px;
+}
